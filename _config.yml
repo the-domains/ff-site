@@ -1,7 +1,7 @@
 name: FF Site
 favicon: null
-layout_spectrum: 0.5757241598330438
-typography_spectrum: 0.2499955901876092
+layout_spectrum: 0.60506
+typography_spectrum: 0.68486
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.38327448000200093
+  brandStrength: 0.3125
   lightness: 0.4316364643163979
   saturation: 0.3108009344432503
   rhythmicContrast: 0.6807667075190693
